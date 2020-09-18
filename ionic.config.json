@@ -1,0 +1,8 @@
+{
+  "name": "RandomLights",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "0e9d7482"
+}
